@@ -1,0 +1,39 @@
+﻿<Properties StartupConfiguration="{77A388D8-3D18-D307-5809-040FD2E222DE}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/VRTemplateAssets/Scripts/WebSocketClient.cs">
+    <Files>
+      <File FileName="Assets/VRTemplateAssets/Scripts/WebSocketClient.cs" Line="103" Column="50" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="VRAssistant" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Samples" expanded="True">
+                <Node name="XR Interaction Toolkit" expanded="True">
+                  <Node name="3.0.3" expanded="True">
+                    <Node name="Starter Assets" expanded="True">
+                      <Node name="Scripts" expanded="True" />
+                      <Node name="Tunneling Vignette" expanded="True" />
+                    </Node>
+                  </Node>
+                </Node>
+              </Node>
+              <Node name="VRTemplateAssets" expanded="True">
+                <Node name="Scripts" expanded="True">
+                  <Node name="WebSocketClient.cs" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="10298c67-0597-44a3-91aa-24bd6193129b" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

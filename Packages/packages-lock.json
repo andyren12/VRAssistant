@@ -1,5 +1,12 @@
 {
   "dependencies": {
+    "com.mikeschweitzer.websocket": {
+      "version": "https://github.com/mikerochip/unity-websocket.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "d4bbc65754b979155c5829574468a6c70d76e97c"
+    },
     "com.unity.burst": {
       "version": "1.8.15",
       "depth": 1,
@@ -294,6 +301,13 @@
         "com.unity.xr.core-utils": "2.1.1"
       },
       "url": "https://packages.unity.com"
+    },
+    "jillejr.newtonsoft.json-for-unity": {
+      "version": "https://github.com/jilleJr/Newtonsoft.Json-for-Unity.git#upm",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "f2c6cb09817832dccd0600f291053d8d55298ee9"
     },
     "com.unity.modules.ai": {
       "version": "1.0.0",
